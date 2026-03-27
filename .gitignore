@@ -7,5 +7,4 @@
 venv/
 .venv/
 **/*.md
-# do not ignore README.md in the root directory
 !README.md
